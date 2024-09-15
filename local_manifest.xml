@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+  <remote name="Fantasy Renald Zhafar"
+          fetch="https://github.com/LizRelDev" />
+
+        <!-- Sync trees -->
+        <project path="device/xiaomi/onclite" name="device_xiaomi_onclite" remote="LizRelDev" revision="QASSA" />
+        <project path="vendor/xiaomi/onclite" name="vendor_xiaomi_onclite" remote="LizRelDev" revision="QASSA" />
+        <project path="kernel/xiaomi/omclite" name="sinsperf_kernel_xiaomi_onclite" remote="LizRelDev" revision="script" />
+  
+  
+</manifest>
