@@ -2,7 +2,7 @@
 
 <manifest>
 
-  <remote name="Fantasy Renald Zhafar"
+  <remote name="LizRelDev"
           fetch="https://github.com/LizRelDev" />
 
         <!-- Sync trees -->
