@@ -8,7 +8,7 @@
         <!-- Sync trees -->
         <project path="device/xiaomi/onclite" name="device_xiaomi_onclite" remote="LizRelDev" revision="QASSA" />
         <project path="vendor/xiaomi/onclite" name="vendor_xiaomi_onclite" remote="LizRelDev" revision="QASSA" />
-        <project path="kernel/xiaomi/omclite" name="sinsperf_kernel_xiaomi_onclite" remote="LizRelDev" revision="12.1" />
+        <project path="kernel/xiaomi/onclite" name="sinsperf_kernel_xiaomi_onclite" remote="LizRelDev" revision="script" />
   
   
 </manifest>
